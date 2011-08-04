@@ -116,5 +116,6 @@ DEPENDENCIES
   dm-postgres-adapter
   dm-sqlite-adapter
   haml
+  rack-test
   rspec
   sinatra
