@@ -9,5 +9,6 @@ gem 'haml'
 group :development, :test do
 	gem 'cucumber'
 	gem 'capybara'
+	gem 'rack-test'
 	gem 'rspec'
-end
+end  
